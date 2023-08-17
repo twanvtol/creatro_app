@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "713491704090",
+    "project_id": "creatro2023",
+    "storage_bucket": "creatro2023.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:713491704090:android:36dad2d162e1a72cdf64a3",
+        "android_client_info": {
+          "package_name": "com.introweek.creatro_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "713491704090-bj8bn1622go09deumqj8q3q9ct6m0t3a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.introweek.creatro_app",
+            "certificate_hash": "c18cdf891a49ddec52ae3b5cb366cd1313ab51ee"
+          }
+        },
+        {
+          "client_id": "713491704090-j1u7je9p02p26p7lq1jhmricstngbskf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAvoaK7WlOgUoUhBIWKvSl0tu6gpy7dDA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "713491704090-j1u7je9p02p26p7lq1jhmricstngbskf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "713491704090-5jr6dpavb5g32umairg303b0acqs14kn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.creatroApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
